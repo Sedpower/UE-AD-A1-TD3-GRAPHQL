@@ -1,7 +1,12 @@
 # UE-AD-A1-GRAPHQL
 ## TP VERT
-### Questions 1
 
-toutes les méhodes ont été implémentées ainsi que l'appelle depuis user à movie.
+L'API `Movie` a été transformée en une API GraphQL et l'API `User` a été mise à jour en conséquence
 
-Des commentaires sont inscrit pour chaque resolvers. 
+## Instructions Docker Compose
+
+Nous n'avons pas utilisé Docker Compose
+
+## Instructions PyCharm
+
+Faire un run des 4 fichier `.py`
